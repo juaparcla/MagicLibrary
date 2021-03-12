@@ -36,3 +36,14 @@ build
 # Ignora configuración del proyecto eclipse
 .project
 .settings
+
+# Nuevos ficheros
+gradlew
+gradlew.bat
+settings.gradle
+lib/.classpath
+lib/.settings
+lib/build.gradle
+lib/createDDL.jdbc
+lib/dropDDL.jdbc
+lib/.project
